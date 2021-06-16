@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+.a{
+  margin-top: 200px;
+  margin-left:100px;
+  border:none;
+  height:200px;
+  font-size: 32px;
+  width:200px;
+}
+.b{
+  margin-top:-200px;
+  margin-left:500px;
+  border:none;
+  height: 200px;
+  width: 200px;
+}
+.c{
+  margin-top: -200px;
+  margin-left:900px;
+  border: none;
+  height: 200px;
+  width: 200px;
+}
+.first{
+  width:250px;
+  height:150px;
+  border:none;
+  color: #099FFF;
+  background-color: transparent;
+  border:solid #099FFF;
+  border-radius: 20px;
+  transition:0.5s;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  background: rgba(0, 116, 151, 0.562);
+}
+.first:hover{
+  cursor:pointer; 
+  color: #099FFF;
+  box-shadow: 0 5px 50px 0 #099FFF inset,0 5px 50px 0 #099FFF;
+}
+#first_1{
+  width:200px;
+  height:100px;
+  border:none;
+  border-radius: 20px;
+  transition:0.5s;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+#first_1:hover{
+  cursor:pointer; 
+  color:#099FFF;
+}
+.second{
+  width:250px;
+  height:150px;
+  border:none;
+  background-color: transparent;
+  color:#099FFF;
+  border:solid #099FFF;
+  border-radius: 20px;
+  transition: 0.5s;
+  font-size: 20px; 
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+  background: rgba(0, 116, 151, 0.562);
+}
+.second:hover{
+  color: #099FFF;
+  cursor: pointer;
+  box-shadow: 0 5px 50px 0 #099FFF inset,0 5px 50px 0 #099FFF;  
+}
+#second_1{
+  width:200px;
+  height:100px;
+  border:none;
+  background-color: transparent;
+  color:#099FFF;
+  border-radius: 20px;
+  transition: 0.5s;
+  font-size: 25px; 
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+#second_1:hover{
+  cursor:pointer; 
+  color:#099FFF;
+}
+.third{
+  width:250px;
+  height:150px;
+  border:none;
+  color: #099FFF;
+  background-color:transparent;
+  border:solid #099FFF;
+  border-radius: 20px; 
+  transition: 0.5s;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+  background: rgba(0, 116, 151, 0.562);
+}
+.third:hover{
+  cursor:pointer; 
+  color: #099FFF;
+  box-shadow: 0 5px 50px 0 #099FFF inset,0 5px 50px 0 #099FFF;
+  
+}
+#third_1{
+  width:200px;
+  height:100px;
+  border:none;
+  background-color: transparent;
+  color: #099FFF;
+  border-radius: 20px;
+  transition:0.5s;
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+  text-decoration: none;
+}
+#third_1:hover{
+  cursor:pointer; 
+  color:#099FFF;
+}
+.d{
+  margin: 0;
+  height:300px;
+  width: 300px;
+  position: relative;
+  top:30px;
+  left:100px;
+  border: dashed black;
+  border-radius: 20px;
+}
+.e{
+  margin:0;
+  height:100px;
+  width: 100px;
+  position:relative;
+  top:200px;
+  left:100px;
+  
+}
+.e:hover{
+  cursor:pointer;
+  
+}
+.fourth{
+  width:55px;
+  height:55px;
+  border-radius:4px;
+  border:none;
+  
+  background-color:black;
+  transition: 0.5s;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.fourth:hover{
+  cursor:pointer;
+  background-color: #099FFF;
+}
+#fourth_1{
+  width:75px;
+  height:75px;
+  border:none;
+  color: black;
+  background-color:black;
+  text-decoration: none;
+  transition: 0.5s;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+#fourth_1:hover{
+  cursor: pointer;
+  background-color: #099FFF;
+}
+.f{
+  width:300px;
+  height:500px;
+  position: relative;
+  left:600px;
+  top:-300px;
+  
+}
+.g{
+  width:400px;
+  height:40vw;
+  position: relative;
+  top:50px;
+  left:780px;  
+}
+.h{
+  position:relative;
+  top:-35vw;
+  left:50px;
+  color: white;
+  word-spacing: 2px;
+  border:solid white;
+  border-top-left-radius: 50px;
+  height: 40vw;
+  width: 700px;
+  padding: 10px;
+  font-family:'Courier New', Courier, monospace;
+  font-size:21px;  
+}
+
+.i{
+  position: relative;
+  top:-80vw;
+  left:40px;
+  height: 25px;
+  width:100px;
+}
+.fifth{
+  height: 25px;
+  width:100px;
+  border:none;
+  color: black;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  z-index: 1;
+}
+.fifth:hover{
+  color:#fff;
+  cursor: pointer;
+}
+.fifth:before{
+  transition: 0.5s all ease;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  right:50%;
+  bottom:0;
+  content:"";
+  background-color: #1597bb;
+}
+.fifth:hover:before{
+  transition: 0.5s all ease;
+  left: 0;
+  right: 0;
+  opacity:1;
+  z-index: -1;
+}
+.j{
+  height:250px;
+  width:250px;
+  position: relative;
+  top:10px;
+  left:100px;
+  padding:20px;
+  font-size:24px;
+  border-radius: 45px;
+  color:cornsilk;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 1.5);  
+}
+.k{
+  height:250px;
+  width:250px;
+  position: relative;
+  top:-270px;
+  left:650px;
+  padding:20px;
+  font-size: 24px;
+  border-radius: 45px;
+  color:cornsilk;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 1.5);
+}
+.l{
+  height:250px;
+  width:250px;
+  position: relative;
+  top:-270px;
+  left:380px;
+  padding: 20px;
+  font-size: 22px;
+  border-radius:45px;
+  color:cornsilk;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 1.5);
+}
+.m{
+  height:250px;
+  width:250px;
+  position: relative;
+  top:-570px;
+  left:930px;
+  padding:20px;
+  border-radius: 60px;
+  font-size: 24px;
+  color:cornsilk;
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 1.5);
+}
+.n
+{
+  height:60px;
+  width: 100px;
+  position: relative;
+  top:-650px;
+  left:40px;
+}
+.sixth{
+  height: 25px;
+  width:100px;
+  border:none;
+  color: black;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  z-index: 1;
+}
+.sixth:hover{
+  color:#fff;
+  cursor: pointer;
+}
+.sixth:before{
+  transition: 0.5s all ease;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  right:50%;
+  bottom:0;
+  content:"";
+  background-color: #1597bb;
+}
+.sixth:hover:before{
+  transition: 0.5s all ease;
+  left: 0;
+  right: 0;
+  opacity:1;
+  z-index: -1;
+}
